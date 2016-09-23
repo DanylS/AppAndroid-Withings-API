@@ -1,0 +1,34 @@
+Applications Memory Usage (kB):
+Uptime: 107835 Realtime: 107835
+
+** MEMINFO in pid 2834 [com.semmache.danyl.withingshy] **
+                   Pss  Private  Private  Swapped     Heap     Heap     Heap
+                 Total    Dirty    Clean    Dirty     Size    Alloc     Free
+                ------   ------   ------   ------   ------   ------   ------
+  Native Heap     3717     3600        0        0    20480    14931     5548
+  Dalvik Heap     2758     2704        0        0     3173     2236      937
+ Dalvik Other      208      196        0        0                           
+        Stack      240      240        0        0                           
+    Other dev        4        0        4        0                           
+     .so mmap     1320      108      220        0                           
+    .apk mmap      138        0       12        0                           
+    .ttf mmap       21        0        0        0                           
+    .dex mmap     3168        0     3100        0                           
+    .oat mmap     2195        0      372        0                           
+    .art mmap     1063      676        4        0                           
+   Other mmap        9        4        0        0                           
+      Unknown      101      100        0        0                           
+        TOTAL    14942     7628     3712        0    23653    17167     6485
+ 
+ Objects
+               Views:       34         ViewRootImpl:        1
+         AppContexts:        3           Activities:        1
+              Assets:        2        AssetManagers:        2
+       Local Binders:        8        Proxy Binders:       13
+       Parcel memory:        2         Parcel count:       10
+    Death Recipients:        0      OpenSSL Sockets:        1
+ 
+ SQL
+         MEMORY_USED:        0
+  PAGECACHE_OVERFLOW:        0          MALLOC_SIZE:        0
+ 

@@ -1,0 +1,124 @@
+CURRENT STATS:
+System memory usage:
+  SOn /Norm: 1 samples:
+    Cached: 318MB min, 318MB avg, 318MB max
+    Free: 714MB min, 714MB avg, 714MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 81MB min, 81MB avg, 81MB max
+    Native: 63MB min, 63MB avg, 63MB max
+
+Per-Package Stats:
+  * com.semmache.danyl.withingshy / u0a58 / v1:
+      * com.semmache.danyl.withingshy / u0a58 / v1:
+               TOTAL: 42% (15MB-15MB-15MB/11MB-11MB-12MB over 2)
+                 Top: 42% (15MB-15MB-15MB/11MB-11MB-12MB over 2)
+
+Summary:
+  * com.semmache.danyl.withingshy / u0a58 / v1:
+           TOTAL: 42% (15MB-15MB-15MB/11MB-11MB-12MB over 2)
+             Top: 42% (15MB-15MB-15MB/11MB-11MB-12MB over 2)
+
+Run time Stats:
+  SOn /Norm: +1m54s49ms (running)
+      TOTAL: +1m54s49ms
+
+Memory usage:
+  Kernel : 81MB (8 samples)
+  Native : 63MB (8 samples)
+  Top    : 8.0MB (2 samples)
+  ImpFg  : 26MB (5 samples)
+  Service: 20MB (15 samples)
+  Receivr: 613KB (18 samples)
+  CchEmty: 35MB (15 samples)
+  Cached : 318MB (8 samples)
+  Free   : 714MB (8 samples)
+  TOTAL  : 1.2GB
+
+          Start time: 2016-09-15 12:04:51
+  Total elapsed time: +2m2s454ms (partial) libart.so
+
+AGGREGATED OVER LAST 24 HOURS:
+System memory usage:
+  SOn /Norm: 5 samples:
+    Cached: 318MB min, 443MB avg, 0.90GB max
+    Free: 36MB min, 568MB avg, 714MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 81MB min, 89MB avg, 110MB max
+    Native: 62MB min, 62MB avg, 63MB max
+
+Per-Package Stats:
+  * com.semmache.danyl.withingshy / u0a58 / v1:
+      * com.semmache.danyl.withingshy / u0a58 / v1:
+               TOTAL: 94% (14MB-17MB-27MB/9.9MB-13MB-22MB over 534)
+                 Top: 94% (14MB-17MB-27MB/9.9MB-13MB-22MB over 534)
+            (Cached): 0.03%
+
+Summary:
+  * com.semmache.danyl.withingshy / u0a58 / v1:
+           TOTAL: 94% (14MB-17MB-27MB/9.9MB-13MB-22MB over 534)
+             Top: 94% (14MB-17MB-27MB/9.9MB-13MB-22MB over 534)
+        (Cached): 0.03%
+
+Run time Stats:
+  SOn /Norm: +18h35m9s682ms
+      TOTAL: +18h35m9s682ms
+
+Memory usage:
+  Kernel : 89MB (40 samples)
+  Native : 62MB (40 samples)
+  Persist: 99MB (222 samples)
+  Top    : 18MB (592 samples)
+  ImpFg  : 61MB (543 samples)
+  ImpBg  : 1.9MB (342 samples)
+  Service: 33MB (497 samples)
+  Receivr: 6.1KB (483 samples)
+  Home   : 33MB (135 samples)
+  CchEmty: 109MB (1152 samples)
+  Cached : 443MB (40 samples)
+  Free   : 568MB (40 samples)
+  TOTAL  : 1.5GB
+
+          Start time: 2016-08-29 03:20:14
+  Total elapsed time: +18h36m3s986ms (partial) libart.so
+
+AGGREGATED OVER LAST 3 HOURS:
+System memory usage:
+  SOn /Norm: 1 samples:
+    Cached: 318MB min, 318MB avg, 318MB max
+    Free: 714MB min, 714MB avg, 714MB max
+    ZRam: 0.00 min, 0.00 avg, 0.00 max
+    Kernel: 81MB min, 81MB avg, 81MB max
+    Native: 63MB min, 63MB avg, 63MB max
+
+Per-Package Stats:
+  * com.semmache.danyl.withingshy / u0a58 / v1:
+      * com.semmache.danyl.withingshy / u0a58 / v1:
+               TOTAL: 99% (15MB-21MB-21MB/11MB-16MB-16MB over 62)
+                 Top: 99% (15MB-21MB-21MB/11MB-16MB-16MB over 62)
+
+Summary:
+  * com.semmache.danyl.withingshy / u0a58 / v1:
+           TOTAL: 99% (15MB-21MB-21MB/11MB-16MB-16MB over 62)
+             Top: 99% (15MB-21MB-21MB/11MB-16MB-16MB over 62)
+
+Run time Stats:
+  SOn /Norm: +2h2m16s802ms
+      TOTAL: +2h2m16s802ms
+
+Memory usage:
+  Kernel : 81MB (8 samples)
+  Native : 63MB (8 samples)
+  Persist: 102MB (24 samples)
+  Top    : 21MB (70 samples)
+  ImpFg  : 56MB (61 samples)
+  ImpBg  : 129KB (1 samples)
+  Service: 33MB (50 samples)
+  Receivr: 10.0KB (52 samples)
+  Home   : 33MB (5 samples)
+  CchEmty: 99MB (64 samples)
+  Cached : 318MB (8 samples)
+  Free   : 714MB (8 samples)
+  TOTAL  : 1.5GB
+
+          Start time: 2016-09-12 00:47:37
+  Total elapsed time: +2h2m25s205ms (partial) libart.so
