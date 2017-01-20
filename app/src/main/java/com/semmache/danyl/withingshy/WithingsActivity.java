@@ -35,7 +35,8 @@ public class WithingsActivity extends AppCompatActivity {
     final String URL_OAUTH_VERSION = "&oauth_version=1.0";
 
     private ArrayList<UserReport> userReportsList = new ArrayList<>();
-
+    http://localhost/healyourself/index.php?userid=10706169&oauth_token=6c528856e8895cd633d54518b4884c2c0663431e5111909bb36116bf6988&oauth_verifier=QLxK92r07UF
+    https://wbsapi.withings.net/measure?action=getmeas?action=getmeas&userid=10706169&oauth_consumer_key=6d97254d677d31bc7781930df84b37212c4e90016117dd54cd9edec6ec&oauth_nonce=70d4c03622482ddc1d42ad40d95ac4ca&oauth_signature=JsvwKDgNdT1CsTocHWZ6prDZ%2F98%3D&oauth_signature_method=HMAC-SHA1&oauth_timestamp=1472349100&oauth_token=9be95634668b178f5397ccc56bb3d52e808492f5f0cbe08895b64674f9e6c
     private TextView lastUpdate;
     private TextView dia;
     private TextView diaType;
